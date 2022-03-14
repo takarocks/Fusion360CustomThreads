@@ -6,6 +6,36 @@
   <Angle>60</Angle>
   <SortOrder>3</SortOrder>
   <ThreadSize>
+    <Size>28.0</Size>
+    <Designation>
+      <ThreadDesignation>M28x4</ThreadDesignation>
+      <CTD>M28x4</CTD>
+      <Pitch>4.0</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>27.7025</MajorDia>
+        <PitchDia>25.2300</PitchDia>
+        <MinorDia>23.1320</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>28.4385</MajorDia>
+        <PitchDia>25.5520</PitchDia>
+        <MinorDia>23.9700</MinorDia>
+        <TapDrill>24</TapDrill>
+      </Thread>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>4g6g</Class>
+        <MajorDia>27.7025</MajorDia>
+        <PitchDia>25.2720</PitchDia>
+        <MinorDia>23.1740</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+  <ThreadSize>
     <Size>29.0</Size>
     <Designation>
       <ThreadDesignation>M29x4</ThreadDesignation>
